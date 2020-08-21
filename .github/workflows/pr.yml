@@ -15,6 +15,7 @@ jobs:
           VALIDATE_ALL_CODEBASE: true
           VALIDATE_BASH: true
           VALIDATE_DOCKERFILE: true
+          VALIDATE_DOCKERFILE_HADOLINT: true
           VALIDATE_MD: true
           VALIDATE_YAML: true
 
